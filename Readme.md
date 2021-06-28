@@ -16,9 +16,9 @@ seu utilizador ao se aproximar de objetos. Dessa forma, visa garantir maior pess
 ### Componentes Necessários:
 
   * 1 - Arduino Uno R3
-  * 2 - Sesnsor de distância ultrassônico HCSR04
+  * 2 - Sensor de distância ultrassônico HCSR04
   * 3 - Micro Servo Motor Tower Pro
-  * 4 - Jumpers
+  * 4 - 40 Jumpers
   * 5 - Cano de PVC 1m, 1 1/2
   * 6 - suporte de pilhas 4 espaços
   * 7 - 4 pilhas AA
