@@ -28,7 +28,7 @@ seu utilizador ao se aproximar de objetos. Dessa forma, visa garantir maior pess
 ### Desenho Esquemático do Circuito
 ![Desenho Esquemático do Circuito](https://github.com/igoorsimoess/WeCane/blob/main/PROJETO.JPG)
 
-O desenho esquemático do circuito mostra como o circuito foi montado e ligado cada componente. Tem-se ideia então de onde cada pino do sensor e motores deve ser ligado em cada porta do arduino.
+O desenho esquemático do circuito mostra como cada componente do circuito foi montado e ligado. Tem-se ideia então de onde cada pino do sensor e motores deve ser ligado em cada porta do arduino.
 
 ### Simulação do projeto
 
