@@ -16,14 +16,14 @@ seu utilizador ao se aproximar de objetos. Dessa forma, visa garantir maior pess
 
 ### Componentes Necessários:
 
-  * Arduino Uno R3 - 1
-  * Sensor de distância ultrassônico HCSR04 - 1
-  * Micro Servo Motor Tower Pro - 3
-  * Jumpers Macho x Macho - 40
-  * Jumpers Macho x Fêmea - 40
-  * Cano de PVC 1m, 1 1/2
-  * Suporte de pilhas 4 espaços
-  * 4 pilhas AA
+  * Arduino Uno R3 - x1
+  * Sensor de distância ultrassônico HCSR04 - x1
+  * Micro Servo Motor Tower Pro - x3
+  * Jumpers Macho x Macho - x40
+  * Jumpers Macho x Fêmea - x40
+  * Cano de PVC 1m, 1 1/2 - x1
+  * Suporte de pilhas 4 espaços - x1
+  * Pilhas AA - x4
  
 ### Desenho Esquemático do Circuito
 ![Desenho Esquemático do Circuito](https://github.com/igoorsimoess/WeCane/blob/main/PROJETO.JPG)
